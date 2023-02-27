@@ -1,0 +1,14 @@
+﻿#border{
+    border-color: red green blue gold;
+
+
+    border-width:medium;
+    border-style: dashed dotted double groove;
+    border-radius: 23px;
+
+}
+#cssTest{
+    background-color: green;
+    border-width: 0px 0px 0px 25px;
+    border-color: none none purple none; 
+}

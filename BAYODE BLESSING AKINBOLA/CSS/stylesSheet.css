@@ -1,0 +1,102 @@
+﻿
+#lnLabel{
+    color : rgba(230,108,180, 0.4);
+}
+#fnLabel {
+    color: #0931f2;
+}
+#dob {
+    color: green;
+}
+#sexL {
+    color: purple;
+}
+#addssL {
+    color: pink;
+}
+#nationLabel {
+    color: darkturquoise;
+}
+#langLabel {
+    color: darkgoldenrod;
+}
+#emailLabel {
+    color: chartreuse;
+}
+#phLabel {
+    color: gold;
+}
+#usnLabel {
+    color: darkcyan;
+}
+#pssLabel {
+    color: lightblue;
+}
+#pssLabel2 {
+    color: lightblue;
+}
+#submitButton {
+    background-color: #eb7d06;
+    color: rgb(245,3,8);
+}
+
+
+#lname{
+    border-color: red green blue gold;
+    border-style:dotted solid groove dashed;
+}
+#fname {
+    border-color: red green blue gold;
+    border-style: dotted solid groove dashed;
+}
+#dOb{
+    border-color: black;
+    border-style: dashed;
+    border-radius: 25px;
+}
+#addss{
+    border-color: green red gold blue;
+    border-style: double;
+}
+#select{
+    border-color: black;
+    border-style:groove;
+    border-radius: 20px;
+}
+#lname {
+    border-color: red green blue gold;
+    border-style: dotted solid groove dashed;
+}
+#email{
+    background-color: rgba(102, 250, 10, 0.9);
+    border-color: none none none red;
+    border-style: none none none solid;
+}
+#phone {
+    background-color: magenta;
+    border-color: green;
+    border-style: solid;
+}
+#username{
+    background-color: cadetblue;
+    border-color: purple;
+    border-style: outset;
+}
+#pass1 {
+    background-color: magenta;
+    border-color: green;
+    border-style: dashed;
+    border-radius: 25px;
+}
+#pass2 {
+    background-color: magenta;
+    border-color: green;
+    border-style: dashed;
+    border-radius: 25px;
+}
+#dataset {
+    background-color: blue;
+    border-color: magenta;
+    border-radius: 25px;
+    border-style: dashed;
+}
